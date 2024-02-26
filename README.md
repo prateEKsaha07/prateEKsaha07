@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prateEKsaha07
+- 👋 Hi, I’m @prateEKsaha07(prateek)
 - 👀 I’m interested in coding c,c++,python and web development
 - 🌱 I’m currently learning web development, c++ and python
 - 💞️ I’m looking to collaborate on ...not right now!
