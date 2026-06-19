@@ -1,7 +1,6 @@
-# Hi there! 👋
-I'm Prateek.
+# Hey folks!👋
 
-I build software, work with data, and enjoy creating solutions that solve real-world problems.
+I'm Prateek I build software, work with data, and enjoy creating solutions that solve real-world problems.
 Artificial Intelligence, Machine Learning, and Data Engineering are the areas I'm most passionate about, and where I spend most of my time learning and building.
 
 ### What I do
