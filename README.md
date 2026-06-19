@@ -11,6 +11,6 @@ Artificial Intelligence, Machine Learning, and Data Engineering are the areas I'
 - Develop full stack applications
 - Solve real-world problems through code
 
-### My Philophosophy
+### My Philosophy
 I believe the best way to learn is to stay curious and keep building. Every project teaches me something new, whether it's a success or a lesson in disguise. 
 My goal is simple: keep improving, solve real problems, and build technology that people find useful.
